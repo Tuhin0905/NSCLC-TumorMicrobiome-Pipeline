@@ -1,0 +1,6 @@
+name: nsclc_humann3
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - humann
+  - diamond
+  - python>=3.10

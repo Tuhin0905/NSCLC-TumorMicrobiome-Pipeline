@@ -1,0 +1,6 @@
+name: nsclc_qc
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - fastqc
+  - multiqc
+  - python>=3.10

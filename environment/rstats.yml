@@ -1,0 +1,8 @@
+name: nsclc_rstats
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - r-base>=4.2
+  - r-tidyverse
+  - r-vegan
+  - r-pheatmap
+  - r-keggrest

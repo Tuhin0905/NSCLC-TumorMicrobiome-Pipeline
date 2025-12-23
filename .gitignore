@@ -1,0 +1,9 @@
+data/
+results/
+*.sam
+*.bam
+*.bai
+*.bt2
+*.log
+.DS_Store
+*.swp

@@ -1,0 +1,5 @@
+name: nsclc_trim
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - atropos=1.1.32
+  - python>=3.10

@@ -1,0 +1,6 @@
+name: nsclc_woltka
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - woltka
+  - biom-format
+  - python>=3.10
