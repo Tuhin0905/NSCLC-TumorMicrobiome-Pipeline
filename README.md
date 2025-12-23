@@ -5,4 +5,4 @@ QC → trimming → host-removal → WoL/Woltka taxonomy → diversity → Songb
 → HUMAnN3 (diamond/UniRef90; bypass nucleotide) → KO/MetaCyc + KO→KEGG mapping
 → pathway differential tests → species–pathway Spearman correlations (FDR).
 
-No raw data / indices / results are included. All paths are placeholders (/path/to/...).
+No raw data / indices / results are included. 
